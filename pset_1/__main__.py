@@ -48,7 +48,7 @@ def read_parquet_columns(parquet_file, columns):
 
 if __name__ == "__main__":
     # compute and display hash for each user id provided
-    for user in ["gorlins", "jsaikali"]:
+    for user in ["gorlins", "yyqian123"]:
         print("Id for {}: {}".format(user, get_user_id(user)))
 
     # path to data file
