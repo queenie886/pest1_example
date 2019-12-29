@@ -1,10 +1,10 @@
 # Pset 1
 
-[![Build Status]
+[![Build Status](https://travis-ci.com/queenie886/pest1_example.svg?branch=master)](https://travis-ci.com/queenie886/pest1_example)
 
-[![Maintainability]
+[![Maintainability](https://api.codeclimate.com/v1/badges/5a8dc476fdf131c6e5cb/maintainability)](https://codeclimate.com/github/queenie886/pest1_example/maintainability)
 
-[![Test Coverage]
+[![Test Coverage](https://api.codeclimate.com/v1/badges/5a8dc476fdf131c6e5cb/test_coverage)](https://codeclimate.com/github/queenie886/pest1_example/test_coverage)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
